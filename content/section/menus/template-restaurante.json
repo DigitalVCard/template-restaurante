@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "title": "Plato Especial",
+      "items": [
+        {
+          "title": "Camarón a la Olla",
+          "description": "Aqui va una pequeña descripción del plato",
+          "prices": [
+            {
+              "title": "Normal",
+              "value": 7.99
+            },
+            {
+              "title": "Pequeño",
+              "value": 5.99
+            }
+          ],
+          "image": "/images/descarga-1-.jpeg"
+        },
+        {
+          "title": "Pollo a la Olla",
+          "description": "Descripción del plato",
+          "image": "/images/descarga.jpeg",
+          "prices": [
+            {
+              "title": "Normal",
+              "value": 7.99
+            }
+          ]
+        },
+        {
+          "title": "Choupsuey a la Olla",
+          "description": "Descripcíon del plato",
+          "image": "/images/descarga-2-.jpeg",
+          "prices": [
+            {
+              "title": "Normal",
+              "value": 10.99
+            }
+          ]
+        },
+        {
+          "title": "Camarón picante",
+          "description": "Descripción del plato",
+          "image": "/images/descarga-3-.jpeg",
+          "prices": [
+            {
+              "title": "Normal",
+              "value": 8.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sopas",
+      "items": [
+        {
+          "title": "Consome de pollo",
+          "image": "/images/images-1-.jpeg",
+          "prices": [
+            {
+              "title": "Normal",
+              "value": 1.7
+            }
+          ],
+          "description": "Descripción del plato"
+        },
+        {
+          "title": "Crema Pac Pow",
+          "description": "Descripción del plato",
+          "image": "/images/tigrillo.jpeg",
+          "prices": [
+            {
+              "title": "Normal",
+              "value": 4.7
+            }
+          ]
+        },
+        {
+          "title": "Sopa de Tallarín Especial",
+          "description": "Descripción del plato",
+          "image": "/images/tigrillo.jpeg",
+          "prices": [
+            {
+              "title": "Normal",
+              "value": 5.1
+            }
+          ]
+        },
+        {
+          "title": "Sopa de pollo",
+          "description": "Descripción del plato",
+          "image": "/images/tigrillo.jpeg",
+          "prices": [
+            {
+              "title": "Normal",
+              "value": 4.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chaulafan - Arroz",
+      "items": [
+        {
+          "title": "Chaulafan Especial",
+          "description": "Chancho, Pollo, Camarón con salsa de soya",
+          "image": "/images/tigrillo.jpeg",
+          "prices": [
+            {
+              "title": "Normal",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Template Restaurante",
+  "description": "Hola mundo"
+}
