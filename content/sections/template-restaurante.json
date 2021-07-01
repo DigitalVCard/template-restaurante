@@ -6,11 +6,6 @@
   "title": "Template Restaurante",
   "sections": [
     {
-      "section": "/section/articles/about",
-      "name": "Sobre nosotros",
-      "icon": "mdi:domain"
-    },
-    {
       "name": "Menu",
       "section": "/section/menus/template-restaurante",
       "icon": "mdi:text-box"
